@@ -12,7 +12,7 @@ Your take-home assignment consists of 6 different tasks that can be found in the
 - Your answers need to be in the dedicated `INDEX.md` file for each task.
 - Refactored code needs to be in the `index.ts` file for each task.
 - You will provide your solution as a zip (zip the folder) as an email attachment.
-- You will send the archive to `marko.stanimirovic@jobcloud.ch` and `marko.ilic@jobcloud.ch`.
+- You will send the archive to `william.lambert@jobcloud.ch` and `marko.ilic@jobcloud.ch`.
 - This assignment will be a starting point for the discussion at the technical interview.
 
 Good Luck!
